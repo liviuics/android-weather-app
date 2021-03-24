@@ -70,11 +70,11 @@ public class MainActivity extends AppCompatActivity {
     SwipeRefreshLayout refreshLayout;
     PlacesClient placesClient;
 
-    String apiKeyG = "AIzaSyCeqOwf0qcbIVorqeXxTBTIWbczwleyJAM";
+    String apiKeyG = "YourGoogleApi";
 
 
     String CITY = "Craiova";
-    String API = "6c8a7ecfb132ee9c0fea6900301d33d1";
+    String API = "YourOpenWeatherAPI";
 
     double LAT = 33;
     double LON = 23.2;
